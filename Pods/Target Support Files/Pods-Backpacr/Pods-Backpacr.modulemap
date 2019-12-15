@@ -1,0 +1,6 @@
+framework module Pods_Backpacr {
+  umbrella header "Pods-Backpacr-umbrella.h"
+
+  export *
+  module * { export * }
+}
